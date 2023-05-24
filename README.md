@@ -46,6 +46,6 @@ Once the bot is running, you can interact with it in the following ways:
 Contributions are welcome! Please feel free to submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Remember that using this bot implies compliance with OpenAI's use case policy.
