@@ -1,4 +1,4 @@
-# DiscordRelay.py
+# DiscordGPT Bot
 import os
 import discord
 import openai
